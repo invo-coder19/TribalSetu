@@ -45,7 +45,7 @@ This repository contains a **static but interactive Android prototype** built to
 ### Installation
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Bhaktigeethub1710/ScholarshipSathi.git
+    git clone https://github.com/invo-coder19/TribalSetu.git
     ```
 2.  **Open the Project**: Open the cloned folder in Android Studio and allow Gradle synchronization to complete.
 3.  **Build the Project**: `Build → Make Project` (or `Ctrl + F9`)
